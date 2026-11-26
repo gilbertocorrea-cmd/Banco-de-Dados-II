@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner BANCO DE DADOS II">
+</div>
+
+<div align="center">
 
 # B A N C O　D E　D A D O S　I I
 
